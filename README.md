@@ -1,2 +1,2 @@
 # test-gitguard
-Hello Test
+Hello Test 2
